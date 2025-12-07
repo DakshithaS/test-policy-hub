@@ -1,4 +1,3 @@
-package exampleconsumer
 package main
 
 import (
