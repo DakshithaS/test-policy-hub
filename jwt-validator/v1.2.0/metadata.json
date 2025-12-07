@@ -1,0 +1,8 @@
+{
+  "name": "jwt-validator",
+  "version": "1.0.0",
+  "description": "JWT token validation policy",
+  "author": "Example Team",
+  "tags": ["jwt", "authentication", "security"],
+  "compatibility": "Go 1.21+"
+}
