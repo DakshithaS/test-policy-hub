@@ -1,0 +1,8 @@
+{
+  "name": "rate-limiter",
+  "version": "2.0.0",
+  "description": "Rate limiter with context support",
+  "author": "Example Team",
+  "tags": ["rate-limiting", "context", "concurrency"],
+  "compatibility": "Go 1.21+"
+}

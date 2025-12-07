@@ -1,0 +1,8 @@
+name: jwt-validator
+version: 2.1.0
+description: JWT validator with proper HMAC verification
+configuration:
+  secret:
+    type: string
+    description: Secret key
+    required: true
