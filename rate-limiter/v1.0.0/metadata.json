@@ -1,8 +1,0 @@
-{
-  "name": "rate-limiter",
-  "version": "1.0.0",
-  "description": "Rate limiting policy to control request traffic",
-  "author": "Example Team",
-  "tags": ["rate-limiting", "traffic-control"],
-  "compatibility": "Go 1.21+"
-}

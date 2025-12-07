@@ -1,8 +1,0 @@
-name: jwt-validator
-version: 1.0.0
-description: JWT token validation policy
-configuration:
-  secret:
-    type: string
-    description: Secret key for validation
-    required: true

@@ -1,8 +1,0 @@
-{
-  "name": "jwt-validator",
-  "version": "2.1.0",
-  "description": "JWT validator with HMAC verification",
-  "author": "Example Team",
-  "tags": ["jwt", "authentication", "security", "hmac"],
-  "compatibility": "Go 1.21+"
-}
