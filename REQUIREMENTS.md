@@ -76,7 +76,7 @@ To download a specific policy version:
    ```
    For example:
    - jwt-validator v2.1.0: `git rev-parse jwt-validator/v2.1.0` → `4a7dc7c6dd55d62b8112bedb2c871db9981eb728`
-   - jwt-validator v1.1.0: `git rev-parse jwt-validator/v1.1.0` → `<commit-hash>`
+   - jwt-validator v1.1.0: `git rev-parse jwt-validator/v1.1.0` → `767fa3f2f813e55ba79b93bd3263d047dbb7d6fd`
    - rate-limiter v1.0.0: `git rev-parse rate-limiter/v1.0.0` → `4a7dc7c6dd55d62b8112bedb2c871db9981eb728`
 
 2. Use the commit hash in `go get`:
